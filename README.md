@@ -12,9 +12,9 @@ after that in that folder open terminal/IDE and do the following steps -
 
 3. now install pug by "npm install pug"
 
-4. now write "node .\index.js"
+4. now write "node .\app.js"
 
-5. now open the browser(google chrome) and write "localhost:5000"
+5. now open the browser(google chrome) and write "localhost:8000"
 
 
 After this step the application will be visible
