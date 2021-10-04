@@ -4,7 +4,7 @@ First clone the repository to your computer by the Following Command git clone
 
 after that in that folder open terminal/IDE and do the following steps -
 
-1.run the command "npm init"
+1. run the command "npm init"
 
 2. after that install express.js by "npm install express"
 
